@@ -1,0 +1,18 @@
+a = 5;
+b = a * 5 + a;
+if (a > 6 && b <= 60) {
+    while (i < b || (i < a && i >=0)) {
+        i = i + 1;
+    }
+    if (i == b) {
+        c = i / b;
+    } else {
+        c = i;
+    }
+} else {
+    c = i / a;
+}
+d = a + (b - c);
+%
+
+

@@ -1,0 +1,23 @@
+/**
+ * Created by lioder at 2018/10/30
+ */
+public enum State {
+    START,
+    FINAL_LETTER,
+    FINAL_INT,
+    TRAN_DOT,
+    FINAL_DOUBLE,
+    TRAN_ADD,
+    TRAN_SUB,
+    TRAN_OP,
+    TRAN_AND,
+    TRAN_OR,
+    TRAN_G,
+    TRAN_L,
+    TRAN_DOUBLE_QUOTE,
+    TRAN_SINGLE_QUOTE,
+    TRAN_SLASH,
+    TRAN_DOUBLE_SLASH,
+    TRAN_STAR_ANNOTATION_BEGIN,
+    TRAN_STAR_IN_ANNOTATION
+}
